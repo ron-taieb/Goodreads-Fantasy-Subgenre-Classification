@@ -12,7 +12,6 @@ from gensim import corpora
 from gensim.models.ldamulticore import LdaMulticore
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import matplotlib.pyplot as plt
 import numpy as np
 
 # Load your cleaned data

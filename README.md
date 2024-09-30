@@ -56,16 +56,13 @@ Number of reviews where all labels are the same: **270,069**
 
 ## Visualizations
 ### Cosine Similarity between LDA Topics and Subgenres
-![Cosine Similarity LDA](path/to/your/image1.png)
+![Cosine Similarity LDA](cosine_matrix_lda.png)
 
 ### Cosine Similarity between NMF Topics and Subgenres
-![Cosine Similarity NMF](path/to/your/image2.png)
+![Cosine Similarity NMF](cosine_matrix_nmf.png)
 
 ### Cosine Similarity between BERTopic Topics and Subgenres
-![Cosine Similarity BERTopic](path/to/your/image3.png)
-
-### Top 5 Subgenres and Review Counts
-![Top Subgenres Table](path/to/your/image4.png)
+![Cosine Similarity BERTopic](cosine_matrix_bertopic.png)
 
 ## Future Research
 Potential areas for further research include expanding the dataset to include book abstracts and experimenting with other transformer models to improve the accuracy of topic and subgenre classification.

@@ -20,7 +20,7 @@ The models used include:
 - BERTopic (transformer-based embeddings and clustering)
 
 ## Dataset Description
-The dataset used for this analysis consists of over **3.4 million reviews** from the **Fantasy & Paranormal** category on Goodreads. After cleaning and preprocessing, we worked with a subset of **2 million English-language reviews**.
+The dataset used for this analysis consists of over **3.4 million reviews** from the **Fantasy & Paranormal** category on Goodreads. The data can be accessed and downloaded from the following link: [Goodreads Datasets](https://mengtingwan.github.io/data/goodreads.html). After cleaning and preprocessing, we worked with a subset of **2 million English-language reviews**.
 
 ## Models Used
 

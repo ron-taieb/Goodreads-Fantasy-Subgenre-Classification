@@ -66,6 +66,3 @@ Number of reviews where all labels are the same: **270,069**
 
 ## Future Research
 Potential areas for further research include expanding the dataset to include book abstracts and experimenting with other transformer models to improve the accuracy of topic and subgenre classification.
-
-## License
-This project is licensed under the MIT License.
